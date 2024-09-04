@@ -1,8 +1,8 @@
 # React + Vite
+This project is a responsive navigation bar built using React and Tailwind CSS. It includes smooth scrolling navigation links and social media icons, and it provides a downloadable resume link.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features 
+Responsive Design: Adapts to different screen sizes. 
+Smooth Scrolling: Smooth transitions to different sections of the page. 
+Social Media Integration: Icons linked to LinkedIn, GitHub, Instagram, and Email. 
+Resume Download: A link to download the resume in PDF format.
