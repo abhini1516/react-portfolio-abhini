@@ -5,7 +5,7 @@
 
 A modern, high-performance portfolio website built with **React**, **Vite**, and **Tailwind CSS**. Designed to showcase my skills, projects, certifications, and experience in a clean and responsive interface.
 
-**Live Demo:** 👉 [https://abhini-portfolio.vercel.app/](https://abhini-portfolio.vercel.app/)
+**Live Demo:** 👉 [Abhini's Portfolio](https://abhini-portfolio.vercel.app/)
 
 ---
 
@@ -98,7 +98,7 @@ The built files will be in the `dist` folder, ready for deployment.
 
 ## **📄 License**
 
-This project is licensed under the **MIT License**.
+This project is licensed under the  [MIT License](LICENSE).
 
 ---
 
