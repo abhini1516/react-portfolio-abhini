@@ -38,7 +38,7 @@ Ensure you have Node.js (v18 or higher) and npm installed on your machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/react-portfolio-abhini.git
+    git clone https://github.com/abhini1516/react-portfolio-abhini.git
     cd abhini-portfolio
     ```
 
